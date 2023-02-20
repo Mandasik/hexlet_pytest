@@ -1,0 +1,1 @@
+[![Python application](https://github.com/Mandasik/hexlet_pytest/actions/workflows/python-app.yml/badge.svg)](https://github.com/Mandasik/hexlet_pytest/actions/workflows/python-app.yml)
